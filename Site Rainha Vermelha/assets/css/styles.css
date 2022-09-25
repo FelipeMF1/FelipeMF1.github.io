@@ -1,0 +1,229 @@
+body {
+    background-color: black;
+    background-image:
+     linear-gradient(
+       #0000004d,#0000004d
+    ), url("https://media.discordapp.net/attachments/1022318111866753165/1023577468596138004/image_2.png?width=188&height=406");
+    background-size: 110%;
+}
+
+#titulo{
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+#title {
+    color: #9e0303;
+    font-size: 25px;
+    margin-left: 130px;
+    text-shadow: white 0.1em 0.1em 0.2em;
+}
+
+#img-title {
+    width: 100px;
+    margin-top: -100px
+}
+
+#center {
+    background-color: #e6e6e6;
+    color: black;
+    width: 1000px;
+    height: 2000px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+
+#title_2 {
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
+
+#text {
+    position: relative;
+    top: 30px;
+    left: 30px;
+    display: grid;
+}
+
+#book_img {
+    position: relative;
+    top: -70px;
+    left: 690px;
+    border: 5px solid #bdbdbd;
+    border-radius: 5px;
+}
+#book_text {
+    position: relative;
+    top: -550px;
+    left: 690px;
+    background-color: #bdbdbd;
+    width: 281px;
+    height: 60px;
+    font-size: 20px;
+    text-align: center;
+    border: 5px solid #bdbdbd;
+    border-radius: 5px;
+}
+
+#title_3 {
+    position: relative;
+    top: -450px;
+    left: 30px;
+}
+
+#sobre_rpg {
+    position: relative;
+    top: -440px;
+    left: 30px;
+    display: grid;
+}
+
+#sobre_rpg_2 {
+    position: relative;
+    top: -440px;
+    left: 30px;
+    display: grid;
+}
+
+#img_ilustra {
+    position: relative;
+    top: -430px;
+    left: 30px;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+#ficha {
+    position: relative;
+    top: -420px;
+    display: grid;
+    text-align: center;
+}
+
+#ficha_combate {
+    background-color: #79090980;
+    height: 200px;
+    border: 5px solid #79090980;
+    border-radius: 5px;
+    position: relative;
+    top: -410px;
+    left: 30px;
+    display: grid;
+    float: left;
+    text-align: center;
+}
+
+#ficha_atributos {
+    background-color: #79090980;
+    height: 200px;
+    border: 5px solid #79090980;
+    border-radius: 5px;
+    position: relative;
+    top: -410px;
+    left: -30px;
+    display: grid;
+    float: right;
+    text-align: center;
+}
+
+#title_house {
+    position: relative;
+    top: -130px;
+    left: -200px;
+}
+
+#Calore, #Samos, #Jacos {
+    text-align: center;
+    flex: 50%;
+    position: relative;
+    top: -120px;
+    left: -30px;
+}
+
+#Iral, #Viper, #Blonos, #Provos {
+    text-align: center;
+    flex: 50%;
+    position: relative;
+    top: -70px;
+    left: 30px;
+}
+
+#Rhambos, #Osanos, #Leloran, #Laris, #Titanos, #Haven {
+    text-align: center;
+    flex: 50%;
+    position: relative;
+    top: -590px;
+    left: 30px;
+}
+
+#Calore, #Samos, #Jacos, #Iral, #Viper, #Blonos, #Provos, #Rhambos, #Osanos, #Leloran, #Laris, #Titanos, #Haven {
+    display: flex;
+
+}
+
+#img_king {
+    position: relative;
+    top: -950px;
+    left: 630px;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+#title_convite {
+    position: relative;
+    top: -1040px;
+    left: 600px;
+    width: 150px;
+    height: 20px;
+    font-size: 24px;
+}
+
+#convite {
+    position: relative;
+    top: -1040px;
+    left: 400px;
+}
+
+#link_discord {
+    position: relative;
+    top: -1020px;
+    left: 400px;
+    width: 150px;
+    height: 20px;
+}
+
+#discord {
+    position: relative;
+    top: -810px;
+    left: 390px;
+    width: 160px;
+    height: 54px;
+}
+
+#creditos {
+    position: relative;
+    top: -2300px;
+    left: 600px;
+    width: 300px;
+    height: 54px;
+}
+
+#ilustra_legend {
+    position: relative;
+    top: -440px;
+    left: 60px;
+    width: 250px;
+    height: 50px;
+    font-style: italic;
+}
+
+#king_legend {
+    position: relative;
+    top: -955px;
+    left: 650px;
+    width: 250px;
+    height: 50px;
+    font-style: italic;
+}
